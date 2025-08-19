@@ -52,27 +52,10 @@
 
 ### ✨ Featured Projects
 
-<p>Here are some of the projects I'm proud of. You can find more on my repositories tab.</p>
+<p>Berikut adalah beberapa proyek pilihan yang pernah saya kerjakan, baik proyek publik maupun pribadi.</p>
 
-### ✨ Featured Projects
-
-<p>Berikut adalah beberapa proyek pilihan yang pernah saya kerjakan, baik proyek pribadi maupun yang tersedia di GitHub.</p>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Website Streaming Media</h3>
-      <br />
-      <a href="#">
-        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Website Streaming Anime" width="100%">
-      </a>
-      <br />
-      <p align="center">
-        Proyek website streaming pribadi (WordPress) dengan kustomisasi mendalam pada template premium untuk menciptakan pengalaman menonton yang <em>user-friendly</em>.
-        <br/>
-        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
-      </p>
-    </td>
+<table width="100%" align="center">
+<tr>
     <td width="50%" valign="top">
       <h3 align="center">Gemini TXT Translator</h3>
       <br />
@@ -81,11 +64,37 @@
       </a>
       <br />
       <p align="center">
-        Sebuah tool sederhana untuk menerjemahkan konten file teks (.txt) dari satu bahasa ke bahasa lain menggunakan kekuatan Google Gemini API.
+        Sebuah <i>tool</i> untuk menerjemahkan file teks (.txt) secara massal menggunakan kekuatan Google Gemini API.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Moutogami - Web Streaming</h3>
+      <br />
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Website Moutogami" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        Website streaming pribadi yang dibangun di atas WordPress dengan kustomisasi tema mendalam untuk menciptakan pengalaman menonton yang responsif dan <i>user-friendly</i>.
+        <br/>
+        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
       </p>
     </td>
   </tr>
-  <tr>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Moutogami - Aplikasi Mobile</h3>
+      <br />
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Aplikasi Moutogami" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        Aplikasi mobile (Android/iOS) untuk menonton anime, dibangun menggunakan Flutter. Menawarkan antarmuka yang bersih dan performa yang lancar.
+        <br/>
+        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">HometePlayer</h3>
       <br />
@@ -94,22 +103,13 @@
       </a>
       <br />
       <p align="center">
-        Sebuah pemutar media yang dikembangkan untuk kebutuhan pribadi, dirancang untuk memberikan pengalaman menonton video yang spesifik dan terkustomisasi.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Gist Embed</h3>
-      <br />
-      <a href="https://github.com/rafiq8k-moga/gist-embed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=gist-embed&theme=dracula&show_owner=true" alt="Gist Embed">
-      </a>
-      <br />
-      <p align="center">
-        Sebuah tool ringan berbasis JavaScript untuk memudahkan proses penyematan (embed) GitHub Gists ke dalam halaman web atau blog.
+        Sebuah aplikasi pemutar media kustom yang fungsional dan memiliki antarmuka yang unik.
       </p>
     </td>
   </tr>
 </table>
+
+*(Catatan: Proyek publik lain seperti `gist-embed` dapat dilihat langsung di tab repositori saya.)*
 
 ---
 
