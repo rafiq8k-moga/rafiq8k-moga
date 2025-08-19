@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDk5aW5lMWo0dnp6aGJ1d2ZjdHk1eWhpcXZpZnhnazRkZzY4bzBudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200">
-</p>
-
 <h1 align="center">
   <samp>
     Hi there, I'm Rafiq! 👋
@@ -13,6 +9,10 @@
   </samp>
 </p>
 
+<p align="center">
+  <img src="https://moutogami.com/wp-content/uploads/2025/06/Untitled97_20250422174510.webp" max-width="1280">
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -20,7 +20,7 @@
 <p>
   I am a versatile developer skilled in both web and mobile application development. My journey in technology has equipped me with a strong foundation in back-end logic using <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Wordpress</strong>, and <strong>Blogger</strong>, creating interactive front-end experiences with <strong>HTML/CSS/JS</strong>, and building beautiful cross-platform mobile apps with <strong>Dart/Flutter</strong>.
   <br><br>
-  I also have experience in game development with <strong>Unity (C#)</strong>. Although the project files for my last game were lost, I'm proud of the final result, which you can see in action <a href="LINK_VIDEO_YOUTUBE_ANDA"><strong>here</strong></a>. I love solving complex problems and turning ideas into reality through clean and efficient code.
+  I also have experience in game development with <strong>Unity (C#)</strong>. Although the project files for my last game were lost, I'm proud of the final result, which you can see in action <a href="http://youtube.com/playlist?list=PL4T0iTBC13TVJ2VPSfLoqT41vuyALcNGY"><strong>here</strong></a>. I love solving complex problems and turning ideas into reality through clean and efficient code.
 </p>
 
 ---
@@ -52,7 +52,7 @@
 
 ### ✨ Featured Projects
 
-<p>Berikut adalah beberapa proyek pilihan yang pernah saya kerjakan, baik proyek publik maupun pribadi.</p>
+<p>Here are a few selected projects I've worked on, including public repositories and private commissions.</p>
 
 <table width="100%" align="center">
 <tr>
@@ -64,35 +64,35 @@
       </a>
       <br />
       <p align="center">
-        Sebuah <i>tool</i> untuk menerjemahkan file teks (.txt) secara massal menggunakan kekuatan Google Gemini API.
+        A tool for bulk-translating text files (.txt) using the Google Gemini API.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Moutogami - Web Streaming</h3>
       <br />
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Website Moutogami" width="100%">
+        <img src="https://raw.githubusercontent.com/rafiq8k-moga/rafiq8k-moga/refs/heads/main/Moutogami.jpg" alt="Moutogami Website Screenshot" width="100%">
       </a>
       <br />
       <p align="center">
-        Website streaming pribadi yang dibangun di atas WordPress dengan kustomisasi tema mendalam untuk menciptakan pengalaman menonton yang responsif dan <i>user-friendly</i>.
+        A private streaming website built on WordPress, featuring deep theme customization for a responsive and user-friendly viewing experience.
         <br/>
-        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
+        <strong>(Private Project - Source code is not public)</strong>
       </p>
     </td>
   </tr>
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Moutogami - Aplikasi Mobile</h3>
+      <h3 align="center">Moutogami - Mobile App</h3>
       <br />
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Aplikasi Moutogami" width="100%">
+        <img src="" alt="App Still In Development" width="100%">
       </a>
       <br />
       <p align="center">
-        Aplikasi mobile (Android/iOS) untuk menonton anime, dibangun menggunakan Flutter. Menawarkan antarmuka yang bersih dan performa yang lancar.
+        A private mobile app for anime enthusiasts, built with Flutter. It offers a clean interface and a smooth viewing experience on both Android & iOS.
         <br/>
-        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
+        <strong>(Private Project - Source code is not public)</strong>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -103,13 +103,37 @@
       </a>
       <br />
       <p align="center">
-        Sebuah aplikasi pemutar media kustom yang fungsional dan memiliki antarmuka yang unik.
+        A custom-built media player application featuring a unique and functional user interface.
+      </p>
+    </td>
+  </tr>
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Gist Embed</h3>
+      <br />
+      <a href="https://github.com/rafiq8k-moga/gist-embed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=gist-embed&theme=dracula&show_owner=true" alt="Gist Embed">
+      </a>
+      <br />
+      <p align="center">
+        A lightweight utility to easily embed GitHub Gists into any webpage.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Unity Game Project</h3>
+      <br />
+      <a href="https://www.youtube.com/playlist?list=PL4T0iTBC13TVJ2VPSfLoqT41vuyALcNGY">
+        <img src="https://raw.githubusercontent.com/rafiq8k-moga/rafiq8k-moga/refs/heads/main/u8_S9_ANVAY-HQ.jpg" alt="Unity Game Screenshot" width="100%">
+      </a>
+      <br />
+      <p align="center">
+        A game developed in Unity (C#). The project files were lost, but the complete gameplay is available as a video playlist on YouTube.
+        <br/>
+        <strong>(Click image to watch)</strong>
       </p>
     </td>
   </tr>
 </table>
-
-*(Catatan: Proyek publik lain seperti `gist-embed` dapat dilihat langsung di tab repositori saya.)*
 
 ---
 
@@ -127,6 +151,6 @@
 
 <p align="center">
   <a href="LINK_LINKEDIN_ANDA" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="LINK_SITUS_PORTOFOLIO_ANDA" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:EMAIL_ANDA" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://rafiq8k.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ionic&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:r8kstudio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
