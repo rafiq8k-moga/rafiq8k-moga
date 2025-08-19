@@ -3,6 +3,11 @@
     Hi there, I'm Rafiq! 👋
   </samp>
 </h1>
+<h3 align="center">
+  <samp>
+    Read about me in <a href="readme-id.md">Indonesian Version</a>
+  </samp>
+</h3>
 <p align="center">
   <samp>
     A Full-Stack Developer from Indonesia 🇮🇩 with a passion for building great apps and games.
