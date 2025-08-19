@@ -54,31 +54,58 @@
 
 <p>Here are some of the projects I'm proud of. You can find more on my repositories tab.</p>
 
+### ✨ Featured Projects
+
+<p>Berikut adalah beberapa proyek pilihan yang pernah saya kerjakan, baik proyek pribadi maupun yang tersedia di GitHub.</p>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-  <h3 align="center">Website Streaming Media</h3>
-  <br />
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Website Streaming Anime" width="100%">
-  </a>
-  <br />
-  <p align="center">
-    Sebuah proyek website streaming pribadi yang dibangun di atas WordPress. Proyek ini melibatkan kustomisasi mendalam  untuk menciptakan pengalaman menonton yang
-    <em>user-friendly</em> dan responsif. Fokus utama adalah pada manajemen konten video yang ekstensif dan optimasi kecepatan.
-    <br/>
-    <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
-  </p>
-</td>
-    <td width="50%" valign="top">
-      <h3 align="center">Nama Proyek Flutter 1 (Contoh: Aplikasi Catatan)</h3>
+      <h3 align="center">Website Streaming Media</h3>
       <br />
-      <a href="LINK_KE_REPO_PROYEK_2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=NAMA_REPO_2&theme=dracula&show_owner=true" alt="Nama Proyek 2">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/23579/261209012-78051b9e-63f6-49a3-a754-5261a86036f5.png" alt="Tampilan Website Streaming Anime" width="100%">
       </a>
       <br />
       <p align="center">
-        Aplikasi mobile cross-platform untuk mencatat kegiatan harian. Dibangun dengan Flutter dan menggunakan local storage untuk penyimpanan data.
+        Proyek website streaming pribadi (WordPress) dengan kustomisasi mendalam pada template premium untuk menciptakan pengalaman menonton yang <em>user-friendly</em>.
+        <br/>
+        <strong>(Proyek Pribadi - Kode tidak dipublikasikan)</strong>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gemini TXT Translator</h3>
+      <br />
+      <a href="https://github.com/rafiq8k-moga/Gemini-TXT-Translator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=Gemini-TXT-Translator&theme=dracula&show_owner=true" alt="Gemini TXT Translator">
+      </a>
+      <br />
+      <p align="center">
+        Sebuah tool sederhana untuk menerjemahkan konten file teks (.txt) dari satu bahasa ke bahasa lain menggunakan kekuatan Google Gemini API.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">HometePlayer</h3>
+      <br />
+      <a href="https://github.com/rafiq8k-moga/HometePlayer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=HometePlayer&theme=dracula&show_owner=true" alt="HometePlayer">
+      </a>
+      <br />
+      <p align="center">
+        Sebuah pemutar media yang dikembangkan untuk kebutuhan pribadi, dirancang untuk memberikan pengalaman menonton video yang spesifik dan terkustomisasi.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Gist Embed</h3>
+      <br />
+      <a href="https://github.com/rafiq8k-moga/gist-embed">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafiq8k-moga&repo=gist-embed&theme=dracula&show_owner=true" alt="Gist Embed">
+      </a>
+      <br />
+      <p align="center">
+        Sebuah tool ringan berbasis JavaScript untuk memudahkan proses penyematan (embed) GitHub Gists ke dalam halaman web atau blog.
       </p>
     </td>
   </tr>
